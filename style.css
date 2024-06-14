@@ -206,6 +206,22 @@ button {
     padding: 35px;
 }
 
+.cta-header {
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.cta-text {
+    color: #F9FAF8;
+}
+
+.cta-button {
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    color: #F9FAF8;
+    font-weight: bold;
+}
 
 .footer {
     background-color: #1F2937;
